@@ -17,18 +17,12 @@ deployment : Heroku (เพราะ ใช้งานได้ฟรี แล
 ตัวอย่างข้อมูลใน database
 
 {
-
   "_id": {
-  
     "$oid": "63d73e1115e878bd40022ae2"
   },
-  
   "input": "https://www.youtube.com/watch?v=6OC92oxs4gA&list=RDGMEMhCgTQvcskbGUxqI4Sn2QYwVMAfsPqkP0kAE&index=6",
-  
   "output": "https://cdpt.in/MjUzOTcyNg==",
-  
   "date": "30 January 2023 , 10 : 48 : 33"
-  
-}
+  }
 
-ซึ่งสามารถ query ดูค่าในหนึ่งวันมีการใช้งานไปกี่ครั้ง ,การใช้งานทั้งหมดกี่ครั้ง
+ซึ่งสามารถ query ดูค่าในหนึ่งวันมีการใช้งานไปกี่ครั้ง,ดูค่าการใช้งานรายสัปดาห์,ดูค่าการใช้งานรายเดือน,ดูค่าการใช้งานรายปี,การใช้งานทั้งหมดกี่ครั้ง
